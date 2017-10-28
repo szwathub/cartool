@@ -27,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		367B09BA1FA47F8900202209 /* install.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = install.xcconfig; sourceTree = "<group>"; };
 		B06C818717934BA30082BD37 /* cartool */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cartool; sourceTree = BUILT_PRODUCTS_DIR; };
 		B06C818A17934BA30082BD37 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B06C818D17934BA30082BD37 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 			children = (
 				B06C818D17934BA30082BD37 /* main.m */,
 				B06C819117934BA30082BD37 /* cartool.1 */,
+				367B09BA1FA47F8900202209 /* install.xcconfig */,
 				B06C818F17934BA30082BD37 /* Supporting Files */,
 			);
 			path = cartool;
