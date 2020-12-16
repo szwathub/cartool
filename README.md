@@ -6,8 +6,8 @@ Export images from OS X / iOS .car CoreUI archives. Very rough code, probably to
 
 ## Installation
 ### Homebrew
-``` 
-$ brew tap Cyrex/tap
+```
+$ brew tap cyrex/formulae
 $ brew install cartool
 ```
 
